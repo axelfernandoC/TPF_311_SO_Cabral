@@ -8,3 +8,7 @@ mkdir -p ~/Continentes/America/Peru/{Lima,Cusco,Arequipa} ~/Continentes/America/
 # Directorios para generar la estructura de Europa, Rol = manager
 
 mkdir -p ~/Continentes/Europa/España/{Madrid,Barcelona,Sevilla} ~/Continentes/Europa/SegundoFrancia/{Paris,Lyon} ~/Continentes/Europa/Italia/Roma
+
+# Directorios para generar la estructura de Asia, Rol = dev
+
+mkdir -p ~/Continentes/Asia/Japon/{Tokio,Osaka,Kioto} ~/Continentes/Asia/China/{Pekín,Shangái} ~/Continentes/Asia/India/Mumbai
