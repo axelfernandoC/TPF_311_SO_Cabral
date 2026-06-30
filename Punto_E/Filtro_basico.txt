@@ -1,0 +1,6 @@
+Memoria RAM total:
+MemTotal:        2010780 kB
+Modelo del microprocesador:
+model name	: AMD Ryzen 5 2600 Six-Core Processor
+Frecuencia del microprocesador:
+cpu MHz		: 3393.620
